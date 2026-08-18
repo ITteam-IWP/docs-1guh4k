@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-kcc4d1.indocuan-win.sbs/sitemap.xml
